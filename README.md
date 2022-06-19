@@ -13,6 +13,7 @@ C/C++相关学习
     - [2. MarkDown文档编辑](#2-markdown文档编辑)
     - [3. 其他扩展](#3-其他扩展)
   - [项目文件目录描述](#项目文件目录描述)
+  - [Author](#author)
 
 <!-- /TOC -->
 
@@ -50,5 +51,10 @@ C/C++相关学习
 ## 项目文件目录描述
 
 - .vscode：一些配置文件
-- HelloWorld：懂得都懂  
+- HelloWorld：懂的都懂  
 - Problem Logs：问题日志，记录项目过程中遇到的一些问题和解决方案
+
+## Author
+
+- Mail：wdeshijiezaifei@163.com  
+- CSDN：[@Listening~](https://blog.csdn.net/listenhhh?spm=1010.2135.3001.5343)
