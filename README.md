@@ -41,6 +41,7 @@ C/C++相关学习
 > - Markdown Preview Github Styling：将 VS Code 内置的 Markdown 预览样式，修改为 Github 的样式。扩展默认样式为*auto*，可以更改扩展设置为*light*使其一直为白底黑字的样式
 > - Markdown TOC：为MarkDown自动生成目录
 > - markdownlint：MarkDown文档格式规范
+> - Markdown Table：将按位置编辑好的数据转化成MarkDwon表格
 > - [更多相关扩展](https://blog.csdn.net/m0_49270962/article/details/119707486)
 
 ### 3. 其他扩展
@@ -52,7 +53,7 @@ C/C++相关学习
 
 - .vscode：一些配置文件
 - HelloWorld：懂的都懂  
-- Problem Logs：问题日志，记录项目过程中遇到的一些问题和解决方案
+- Problem Logs：问题日志，记录项目过程中遇到的一些问题和解决方案，包括在软件、插件等使用过程中的一些笔记
 
 ## Author
 
