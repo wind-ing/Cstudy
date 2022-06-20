@@ -19,15 +19,17 @@ C/C++相关学习
 
 ## 开发环境
 
-编辑器：VSCode  
+- 编辑器：VSCode  
+
 > [官方下载地址](https://code.visualstudio.com/)  
 > [参考安装教程](https://blog.csdn.net/weixin_48468423/article/details/118950592?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165552732616781818794176%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165552732616781818794176&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-118950592-null-null.142^v17^pc_search_result_control_group,157^v15^new_3&utm_term=vscode&spm=1018.2226.3001.4187)  
 
-编译器：MinGW  
+- 编译器：MinGW  
+
 > 版本：x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0  
 > [官方下载地址](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/)
 
-版本管理工具：GitHub Desktop  
+- 版本管理工具：GitHub Desktop  
 
 ## VSCode相关插件
 
@@ -52,6 +54,7 @@ C/C++相关学习
 ## 项目文件目录描述
 
 - .vscode：一些配置文件
+- ACM：算法部分，主要是一些经典的模板和刷题写的代码
 - HelloWorld：懂的都懂  
 - Problem Logs：问题日志，记录项目过程中遇到的一些问题和解决方案，包括在软件、插件等使用过程中的一些笔记
 
