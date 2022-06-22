@@ -11,3 +11,8 @@
 > > [参考解决方案](https://www.php.cn/tool/vscode/450789.html#:~:text=vscode%E6%97%A0%E6%B3%95,scode%E5%8D%B3%E5%8F%AF%E3%80%82)  
 > > 问题2：SSL certificate problem: self signed certificate  
 > > [参考解决方案](https://blog.csdn.net/Xieyp040/article/details/80233436)
+
+- 关于代码不能正常运行调试
+
+> 提示信息：GDB failed with message:“path : not in executable format: File format not recongnized.  
+> 解决思路：1. 目录中是否包含中文字符 2. `.vscode`下面的配置文件是否有问题
