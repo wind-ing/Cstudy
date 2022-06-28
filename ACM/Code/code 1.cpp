@@ -1,3 +1,6 @@
+/*
+位运算与快速幂
+*/
 #include<iostream>
 #include<cmath>
 using namespace std;
