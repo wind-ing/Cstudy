@@ -41,7 +41,7 @@ C/C++相关学习
 
 > - Markdown All in One：集成了编辑 Markdown 文件时需要的大部分功能
 > - Markdown Preview Github Styling：将 VS Code 内置的 Markdown 预览样式，修改为 Github 的样式。扩展默认样式为*auto*，可以更改扩展设置为*light*使其一直为白底黑字的样式
-> - Markdown TOC：为MarkDown自动生成目录
+> - Auto Markdown TOC：为MarkDown自动生成目录
 > - markdownlint：MarkDown文档格式规范
 > - Markdown Table：将按位置编辑好的数据转化成MarkDwon表格
 > - [更多相关扩展](https://blog.csdn.net/m0_49270962/article/details/119707486)
